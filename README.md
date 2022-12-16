@@ -9,11 +9,8 @@
   M.Sc. student in Computer Science. 
 </p>
 
-<p align="center">
-  <a href="https://ppizarror.com">
-    <img alt="Website" src="https://img.shields.io/badge/Website-4F0599?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
-  </a>
-  <a href="mailto:pablo@ppizarror.com">
+<p align="center
+  <a href="mailto:gabrieliturrab@ug.uchile.cl">
     <img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/giturra/">

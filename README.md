@@ -25,40 +25,7 @@
 - 🔭 I am currently researching incremental word representation at my M.Sc. in Computer Science @ <a href="https://www.dcc.uchile.cl/">dcc, University de Chile</a>
 - 🎓 Experienced in Web Development, AI+ML+DL+NLP,& Data Science
 
-## 📊 Stats
 
-<!-- 3D contribs -->
-![](./profile-3d-contrib/profile-night-view.svg)
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<p align="left">
-  <a href="https://ppizarror.com">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppizarror&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&hide=roff&&langs_count=10" />
-  </a>
-</p>
-
-
-
-<!-- ## :zap: Recent activity -->
-<!--START_SECTION:activity-->
-<!--
-1. 🗣 Commented on [#229](https://github.com/ppizarror/pygame-menu/issues/229) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
-2. 🗣 Commented on [#229](https://github.com/ppizarror/pygame-menu/issues/229) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
-3. 💪 Opened PR [#236](https://github.com/ppizarror/pygame-menu/pull/236) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
-4. 🗣 Commented on [#230](https://github.com/ppizarror/pygame-menu/issues/230) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
-5. 🗣 Commented on [#230](https://github.com/ppizarror/pygame-menu/issues/230) in [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu)
--->
-<!--END_SECTION:activity-->
-
-<!--
-## :trophy: GitHub Trophies
-<!--
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ppizarror&theme=nord&column=7" />
-  </a>
-</p>
--->
 
 ## 💻 Languages / Frameworks
 

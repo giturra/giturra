@@ -9,7 +9,7 @@
   M.Sc. student in Computer Science. 
 </p>
 
-<p align="center
+<p align="center"
   <a href="mailto:gabrieliturrab@ug.uchile.cl">
     <img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

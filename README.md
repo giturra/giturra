@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  M.Sc. student in Computer Science. 
+  M.Sc. Computer Science. 
 </p>
 
 <p align="center"

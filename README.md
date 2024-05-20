@@ -27,6 +27,15 @@
 - 💻 Experienced in Web Development, AI+ML+DL+NLP,& Data Science.
 - ⭐ I am the main developer of <a href="https://github.com/dccuchile/rivertext">RiverText</a>: An open source library for training and evaluating Word Embedding models from text data streams.
 
+<br>
+<br>
+
+<div align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=giturra&count_private=true&show_icons=true&custom_title=Github&theme=chartreuse-dark&bg_color=0,000000,130F40&layout=compact&border_radius=8">
+</div>
+
+<br>
+<br>
 
 
 ## 💻 Languages / Frameworks

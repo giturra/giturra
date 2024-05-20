@@ -22,7 +22,7 @@
 
 ## ℹ️ Info
 
-- 🔭 I am currently researching incremental word representation at my M.Sc. in Computer Science @ <a href="https://www.dcc.uchile.cl/">dcc, University de Chile</a>
+- 🔭 I hold a M.Sc. in Computer Science from the @ <a href="https://www.dcc.uchile.cl/">dcc, University de Chile</a>
 - 🎓 Experienced in Web Development, AI+ML+DL+NLP,& Data Science
 
 

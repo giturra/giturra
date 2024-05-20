@@ -22,7 +22,7 @@
 
 ## ℹ️ Info
 
-- 🔭 I hold a M.Sc. in Computer Science from the @ <a href="https://www.dcc.uchile.cl/">dcc, University de Chile</a>
+- 🔭 I hold a M.Sc. in Computer Science from the @ <a href="https://www.dcc.uchile.cl/">dcc, University de Chile</a>, which was supervised <a href=¨https://felipebravom.com/¨>Felipe Bravo-Marquez</a>
 - 🎓 Experienced in Web Development, AI+ML+DL+NLP,& Data Science
 
 

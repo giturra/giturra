@@ -1,13 +1,11 @@
-<!-- ppizarror README file -->
+  <!-- giturra README file -->
 <!-- icons: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <h1 align="center">
   Hi there 👌 I'm Gabriel
 </h1>
 
-<p align="center">
-  M.Sc. Computer Science. 
-</p>
+Hello, my name is Gabriel Iturra-Bocaz and I live in Santiago of Chile. Currently, I am working as a part-time professor at <a href="https://www.dcc.uchile.cl/">dcc, University de Chile</a>. 
 
 <p align="center"
   <a href="mailto:gabrieliturrab@ug.uchile.cl">

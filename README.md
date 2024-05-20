@@ -8,7 +8,7 @@
 Hello, my name is Gabriel Iturra-Bocaz and I live in Santiago of Chile. Currently, I am working as a part-time professor at <a href="https://www.dcc.uchile.cl/">dcc, University de Chile</a>. 
 
 <p align="center"
-  <a href="mailto:gabrieliturrab@ug.uchile.cl">
+  <a href="mailto:g.iturra.bocaz@gmail.com">
     <img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/giturra/">

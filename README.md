@@ -25,6 +25,7 @@
 - 🎓 I hold a M.Sc. in Computer Science from the @ <a href="https://www.dcc.uchile.cl/">dcc, University de Chile</a>, which was supervised by <a href="https://felipebravom.com/">Felipe Bravo-Marquez</a>.
 - 📖 I'm alumni of the <a href="https://relela.com/">RELELA</a> (Representations for Learning and Language) research group of the  @ <a href="https://www.dcc.uchile.cl/">dcc, University de Chile</a>.
 - 💻 Experienced in Web Development, AI+ML+DL+NLP,& Data Science.
+- I'm the main developer of <a href="https://github.com/dccuchile/rivertext">RiverText</a>: An open source library for training and evaluating Word Embedding models from text data streams.
 
 
 

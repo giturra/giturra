@@ -21,9 +21,10 @@
 
 
 ## ℹ️ Info
-b
-- 🔭 I hold a M.Sc. in Computer Science from the @ <a href="https://www.dcc.uchile.cl/">dcc, University de Chile</a>, which was supervised by <a href="https://felipebravom.com/">Felipe Bravo-Marquez</a>
-- 🎓 Experienced in Web Development, AI+ML+DL+NLP,& Data Science
+
+- 🎓 I hold a M.Sc. in Computer Science from the @ <a href="https://www.dcc.uchile.cl/">dcc, University de Chile</a>, which was supervised by <a href="https://felipebravom.com/">Felipe Bravo-Marquez</a>.
+- 📖 I'm alumni of the RELELA (Representations for Learning and Language ) research group of the University of Chile
+- 💻 Experienced in Web Development, AI+ML+DL+NLP,& Data Science.
 
 
 

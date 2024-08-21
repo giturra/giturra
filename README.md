@@ -5,7 +5,7 @@
   Hi there 👌 I'm Gabriel
 </h1>
 
-Hello, my name is Gabriel Iturra-Bocaz and I live in Santiago of Chile. Currently, I am working as GenAI Developer at <a href="https://globalconexus.com/">GlobalConexus</a> and a part-time professor at <a href="https://www.dcc.uchile.cl/">dcc, University de Chile</a>. 
+Hello, my name is Gabriel Iturra-Bocaz and I live in Santiago of Chile. Currently, I am working as GenAI Developer at <a href="https://globalconexus.com/">GlobalConexus</a>. 
 
 <p align="center"
     <a href="mailto:g.iturra.bocaz@gmail.com">
